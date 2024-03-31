@@ -1,8 +1,8 @@
 # Required Library
-   1 npm install express
-   2 npm install mongoose
-   3 npm install Nodemon
-   4 npm install mongoose
+  ** 1 npm install express**
+  ** 2 npm install mongoose**
+  ** 3 npm install Nodemon**
+  ** 4 npm install mongoose**
 
 # Shopping Portal API
 ## Endpoints
